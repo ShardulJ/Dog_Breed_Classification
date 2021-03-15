@@ -1,5 +1,7 @@
 # Dog_Breed_Classification
 
+Do check the Assignment.ipynb file (Jupyter Notebook)
+
 To run locally
 ```
 python app.py
