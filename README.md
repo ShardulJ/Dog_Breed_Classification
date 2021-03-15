@@ -4,5 +4,7 @@ To run locally
 ```
 python app.py
 ```
+The app runs fine locally
 
-The code for templates and static files was taken from https://github.com/anagar20/Resnet-Image-Classification-Flask-App
+The app is deployed on [Heroku]: https://breed-identification.herokuapp.com/
+It has some issues fixable though.
