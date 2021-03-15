@@ -1,0 +1,9 @@
+pandas 
+numpy
+torch
+torchvision
+Flask
+gunicorn
+json
+sklearn
+matplotlib
