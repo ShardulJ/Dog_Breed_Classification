@@ -1,10 +1,8 @@
 import io
 import os
-import json
 from collections import namedtuple
 import torchvision.transforms as transforms
 from torch.autograd import Variable
-from PIL import Image
 from flask import Flask, request, Response, jsonify, render_template, redirect
 from model import *
 
